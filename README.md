@@ -6,8 +6,8 @@ Today's lab involves improving a flawed e-commerce checkout flow.
 
 ### Part I: Research
 1. **Identify an e-commerce checkout flow that needs improving.** If you're struggling to find one check out [Top 50 E-Commerce Checkouts](https://baymard.com/checkout-usability/benchmark/top-100) by Baymard Institute. Remember to examine **mobile** usability as well as desktop!
-2. **Observe other users.** Partner with classmates and give them tasks to complete on your e-commerce site of choice. I don't expect you or your classmates to make purchases, but ask them to think aloud, and do take notes on your observations!
-3. **Research the competition.** Who are your site's competitors? What specific things do they do better or worse than your site?
+2. **SWOT Analysis.** Understanding your site's brand and how it measures up against competitors is critical to improving the checkout experience. What does your site do particularly well? What things are competitors doing better?
+3. **Observe other users.** Partner with classmates and give them tasks to complete on your e-commerce site of choice. I don't expect you or your classmates to make purchases, but ask them to think aloud, and do take notes on your observations!
 
 *Nothing is due from this stage, but the work you do here informs other stages.*
 
